@@ -86,9 +86,6 @@ export default function App() {
       {/* Sidebar */}
       <aside style={{ width: 210, background: P.teal4, display: "flex", flexDirection: "column", flexShrink: 0 }}>
         <div style={{ padding: "24px 20px 18px", borderBottom: `1px solid ${P.teal2}` }}>
-          <div style={{ width: 32, height: 4, background: P.orange, borderRadius: 2, marginBottom: 10 }} />
-          <p style={{ margin: "0 0 2px", fontSize: 14, fontWeight: 800, color: P.white, letterSpacing: "-0.02em" }}>Wawasan</p>
-          <p style={{ margin: 0, fontSize: 9, color: P.orange, fontWeight: 700, letterSpacing: "0.14em", textTransform: "uppercase" }}>AI Governance</p>
         </div>
 
         <nav style={{ padding: "16px 10px", flex: 1 }}>
