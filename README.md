@@ -36,8 +36,7 @@ Build a structured AI vendor risk management framework for Wawasan InsurTech tha
 | Risk scoring analysis | Python / Jupyter | Weighted scoring, SLA monitoring, radar charts, sensitivity analysis |
 | Governance dashboard | React / Vercel | Interactive CISO-level presentation of findings and recommendations |
 
-> Full result analysis, findings, and recommendations are presented interactively in the [Vercel dashboard](#).
-
+> Full result analysis, findings, and recommendations are presented interactively in the [Vercel dashboard](https://ai-vendor-risk-casestudy.vercel.app)
 ---
 
 ### Findings
